@@ -1,0 +1,11 @@
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\bin\Debug\net8.0\SamuraiApp.Core.deps.json
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\bin\Debug\net8.0\SamuraiApp.Core.dll
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\bin\Debug\net8.0\SamuraiApp.Core.pdb
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\obj\Debug\net8.0\SamuraiApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\obj\Debug\net8.0\SamuraiApp.Core.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\obj\Debug\net8.0\SamuraiApp.Core.AssemblyInfo.cs
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\obj\Debug\net8.0\SamuraiApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\obj\Debug\net8.0\SamuraiApp.Core.dll
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\obj\Debug\net8.0\refint\SamuraiApp.Core.dll
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\obj\Debug\net8.0\SamuraiApp.Core.pdb
+C:\Users\vboxuser\Desktop\tnv_dot_net\SamuraiApp\src\SamuraiApp.Core\obj\Debug\net8.0\ref\SamuraiApp.Core.dll

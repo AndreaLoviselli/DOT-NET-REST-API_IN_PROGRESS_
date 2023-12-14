@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SamuraiApp.ConsoleApplication/1.0.0": {
+        "dependencies": {
+          "SamuraiApp.Core": "1.0.0"
+        },
+        "runtime": {
+          "SamuraiApp.ConsoleApplication.dll": {}
+        }
+      },
+      "SamuraiApp.Core/1.0.0": {
+        "runtime": {
+          "SamuraiApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SamuraiApp.ConsoleApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SamuraiApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
